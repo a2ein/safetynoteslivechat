@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3307,
+            "driver": "MySQL",
+            "name": "LIVECHAT",
+            "group": "ICS",
+            "database": "livechat",
+            "username": "root@localhost",
+            "password": "a2ein3d@106555NFNF"
+        }
+    ]
+}
